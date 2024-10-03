@@ -21,27 +21,20 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 
 ### Projects
 
-**1. Machine Learning Projects**
+#### Machine Learning Projects
 - **[Brain Stroke Prediction](https://github.com/kathulashalom/Brain-strock-project)**: Created a predictive machine learning model for brain stroke risk assessment, achieving 95% accuracy to support early intervention and prevention.
 - **[Liver_cirrhosis stage prediction](https://github.com/kathulashalom/Liver_cirrhosis)**: This project focuses on predicting the stage of liver cirrhosis using machine learning techniques. The dataset contains various health-related features.
 
-**2. Deep Learning Projects**
-- **[Game Sentimental Analysis]()**: Sentiment analysis on Twitter comments related to various games using NLP and deep learning models like RNN and LSTM for sentiment classification.
-- **[Customer Credit Score Predictor]()**: Predict customer credit scores (Good, Poor, Standard) using an ANN model based on financial and personal data.
-
-**3. Power BI Projects**
-- **[Super Store Sales Analysis]()**: Designed comprehensive Power BI visualizations to track sales, profit, and product metrics across different regions using Superstore Sales data.
-- **[Spotify Analysis]()**: Designed a data-driven dashboard offering insights into track popularity and artist trends on Spotify.
   
-**4. Tableau Projects**
-- **[Superstore data]()**: Created an interactive Tableau dashboard for analyzing store according to various concepts 
+#### Tableau Projects
+- **[Superstore data](https://github.com/kathulashalom/Superstore)**: Created an interactive Tableau dashboard for analyzing store according to various concepts 
 - **[Obesity Level Analysis](https://github.com/kathulashalom/Obesity_analysis)**: Generated a data visualization dashboard to assess Obesity Level Analysis spread and healthcare responses in India.
 
 ## 📫 Let's Connect!
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kathula-shalom-6944a3239)
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
-- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-181717?style=for-the-badge&logo=hackerrank&logoColor=00EA64)]()
-- [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-181717?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/profile/Kathulashalom123)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kathulashalom123@gmail.com))
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to connect.... Always ready to help! 😊
