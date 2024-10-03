@@ -34,9 +34,8 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 - **[Spotify Analysis]()**: Designed a data-driven dashboard offering insights into track popularity and artist trends on Spotify.
   
 **4. Tableau Projects**
-- **[HR Analytics]()**: Created an interactive Tableau dashboard for analyzing employee attrition, satisfaction, and demographics across departments.
-- **[Data Science Salary Analysis]()**: Designed an interactive salary analytics dashboard for data science roles, highlighting global trends in pay by experience and employment type.
-- **[Covid 19 Analysis]()**: Generated a data visualization dashboard to assess COVID-19 spread and healthcare responses in India.
+- **[Superstore data]()**: Created an interactive Tableau dashboard for analyzing store according to various concepts 
+- **[Obesity Level Analysis](https://github.com/kathulashalom/Obesity_analysis)**: Generated a data visualization dashboard to assess Obesity Level Analysis spread and healthcare responses in India.
 
 ## 📫 Let's Connect!
 
