@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 
 ## 📫 Let's Connect!
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/kathula-shalom-6944a3239](https://www.linkedin.com/in/kathula-shalom-6944a3239/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kathula-shalom-6944a3239/])
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kathulashalom)
 - [![Hackerrank](https://img.shields.io/badge/-Hackerrank-181717?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/profile/Kathulashalom123)
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kathulashalom123@gmail.com))
