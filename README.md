@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 
 **1. Machine Learning Projects**
 - **[Brain Stroke Prediction](https://github.com/kathulashalom/Brain-strock-project)**: Created a predictive machine learning model for brain stroke risk assessment, achieving 95% accuracy to support early intervention and prevention.
-- **[California House Price Prediction]()**: Developed a machine learning model to predict California house prices using multiple regression techniques for accurate price forecasting.
+- **[Liver_cirrhosis stage prediction]()**: Developed a machine learning model to predict California house prices using multiple regression techniques for accurate price forecasting.
 - **[Gender Classification]()**: Applied machine learning algorithms to accurately identify gender from facial metrics and personal attributes.
 - **[Car Price Prediction]()**: Built a machine learning model to predict used car prices by leveraging regression techniques and data analysis, delivering accurate and actionable price insights.
 
